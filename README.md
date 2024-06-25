@@ -1,1 +1,1 @@
-For personal use, please do not copy or use.
+For personal use, please do not fork or use.
